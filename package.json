@@ -1,8 +1,9 @@
 {
-    "name": "contentder-component",
-    "displayName": "contentder component",
-    "description": "Code suggestion for contentder components.",
+    "name": "component-snippet",
+    "displayName": "component snippet",
+    "description": "Code suggestion for components.",
     "version": "0.0.1",
+    "publisher": "kiranshahi",
     "engines": {
         "vscode": "^1.31.0"
     },
