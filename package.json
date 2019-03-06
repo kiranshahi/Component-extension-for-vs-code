@@ -1,0 +1,20 @@
+{
+    "name": "contentder-component",
+    "displayName": "contentder component",
+    "description": "Code suggestion for contentder components.",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.31.0"
+    },
+    "categories": [
+        "Snippets"
+    ],
+    "contributes": {
+        "snippets": [
+            {
+                "language": "javascript",
+                "path": "./snippets/snippets.json"
+            }
+        ]
+    }
+}
