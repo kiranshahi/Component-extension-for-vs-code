@@ -2,11 +2,15 @@
 
 * Snippet generation for repeated monotonous task that component developer do. 
 
-![screenshot](images/comp.gif)
+![screenshot](https://media.giphy.com/media/8OJGLO9CtumuxnMwav/giphy.gif)
 
 ### 0.0.1
 
 Initial release of contentder component snippet suggestion tool.
+
+### 0.0.2
+
+Documentation updated.
 
 -----------------------------------------------------------------------------------------------------------
 
@@ -24,6 +28,10 @@ Initial release of contentder component snippet suggestion tool.
 * `AText` for advance text setting snippet.
 * `AVisibility` for advance visibility snippet.
 * `AWidth` for advance width slider snippet.
+
+## Dependencies
+
+Visual Studio Code version 1.31.0 or above is required.
 
 ## Contact
 

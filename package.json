@@ -2,7 +2,7 @@
     "name": "component-snippet",
     "displayName": "component snippet",
     "description": "Code suggestion for components.",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "publisher": "kiranshahi",
     "engines": {
         "vscode": "^1.31.0"
