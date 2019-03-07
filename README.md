@@ -35,6 +35,6 @@ Visual Studio Code version 1.31.0 or above is required.
 
 ## Contact
 
-If you have any suggestions, issue and feedbacks you can write an email to me at kiran.shahi.np@gmail.com
+If you have any suggestions, issue and feedbacks please create an [issue on github](https://github.com/kiranshahi/Component-extension-for-vs-code/issues/new)
 
 **Enjoy!**

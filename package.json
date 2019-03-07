@@ -4,6 +4,7 @@
     "description": "Code suggestion for components.",
     "version": "0.0.2",
     "publisher": "kiranshahi",
+    "repository": "https://github.com/kiranshahi/Component-extension-for-vs-code",
     "engines": {
         "vscode": "^1.31.0"
     },
