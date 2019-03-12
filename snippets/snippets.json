@@ -11,7 +11,6 @@
             "\t\t\"bucket\": true,",
             "\t\t\"hidden\": false,",
             "\t\t\"defaultdata\": EasyLibrary.ReadDOM(\"\", false),",
-            "\t\t\"branchData\": EasyLibrary.ReadDOM(\"\"),",
             "\t\t\"onsort\": function (ui) { },",
             "\t\t\"afterdrop\": function (\\$appendedParent, \\$appendLayer, dropped) {",
             "\t\t\tif (dropped) {",
